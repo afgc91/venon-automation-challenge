@@ -14,7 +14,7 @@ public class Constants {
 
     //Negative test cases data
     public static final int NON_EXISTENT_PET_ID = 0;
-    public static String INVALID_PET_ID = "abc";
+    public static final String INVALID_PET_ID = "abc";
 
     //API parameters
     public static final String ID = "id";
